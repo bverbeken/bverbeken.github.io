@@ -1,6 +1,6 @@
 baseURL: 'https://bverbeken.github.io'
 languageCode: 'en-us'
-title: 'Never Just Anything'
+title: '"Just"'
 theme: "ananke"
 params:
   ananke_socials:
