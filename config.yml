@@ -5,12 +5,8 @@ theme: "ananke"
 params:
   author: "Ben Verbeken"
   ananke_socials:
-    - name: twitter
-      url: https://twitter.com/bverbeken
     - name: github
       url: https://github.com/bverbeken
-    - name: linkedIn
-      url: https://www.linkedin.com/in/bverbeken/
     - name: strava
       url: https://www.strava.com/athletes/63708615
       label: strava
