@@ -3,6 +3,7 @@ languageCode: 'en-us'
 title: '"Just"'
 theme: "ananke"
 params:
+  author: "Ben Verbeken"
   ananke_socials:
     - name: twitter
       url: https://twitter.com/bverbeken
@@ -18,4 +19,11 @@ params:
       url: https://www.goodreads.com/user/show/6076790-ben
       label: goodreads
       color: '#B9AC9A'
+  background_color_class: "bg-dark-gray"
+  recent_posts_number: 5
+
+sitemap:
+  changefreq: "monthly"
+  priority: 0.5
+  filename: "sitemap.xml"
 
