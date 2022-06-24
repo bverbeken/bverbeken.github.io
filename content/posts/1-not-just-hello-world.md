@@ -5,6 +5,7 @@ draft: true
 ---
 
 * Why this blog
+* This hero image is not just a hero image
 * Nothing is just anything
 * Examples
   * Just running
