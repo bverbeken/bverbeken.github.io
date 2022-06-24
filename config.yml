@@ -1,0 +1,21 @@
+baseURL: 'https://bverbeken.github.io'
+languageCode: 'en-us'
+title: 'Never Just Anything'
+theme: "ananke"
+params:
+  ananke_socials:
+    - name: twitter
+      url: https://twitter.com/bverbeken
+    - name: github
+      url: https://github.com/bverbeken
+    - name: linkedIn
+      url: https://www.linkedin.com/in/bverbeken/
+    - name: strava
+      url: https://www.strava.com/athletes/63708615
+      label: strava
+      color: '#FC5201'
+    - name: goodreads
+      url: https://www.goodreads.com/user/show/6076790-ben
+      label: goodreads
+      color: '#B9AC9A'
+
