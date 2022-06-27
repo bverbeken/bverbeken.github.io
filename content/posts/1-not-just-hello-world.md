@@ -46,6 +46,12 @@ Oh and maybe a dash of music, in particular the vocal kind.
 ### Who are you anyway?
 I'm "just" [Ben](/about/), a software developer, singer, father, runner, reader, nerd, and that's in no particular order. 
 
-### When is your book coming out? 
-Lol, I'm not trying to sell anything. Not here anyways. 
+### Why English? 
+My native tongue is (a variant of) Dutch, which is what we speak in the northern half of Belgium (Vlaanderen/Flanders). \ 
+Dutch would've been a great option too, this being a personal blog and all.  
+
+However, as a software developer I'm talking and writing English on a daily basis. And though I'm not sure yet where this blog is going, I _am_ certain that there will be some technical posts. Those will need to be in English, I don't think I'll be able to write about software development in Dutch TBH.\
+
+It could very well be that I end up writing stuff in _both_ English and Dutch, depending on the topic.     
+We'll see. For now English "just" feels like the natural thing to do.   
 
