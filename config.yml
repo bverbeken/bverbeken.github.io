@@ -11,6 +11,7 @@ params:
   readMore: false
   disableSummary: false
   customCSS:
+    - css/colors.css
     - css/my.css # relative path to "assets" directory (don't use main.css filename)
   social:
     - id: github

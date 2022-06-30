@@ -1,3 +1,8 @@
 header nav:not(:empty){
     text-align: right;
 }
+
+.common-footer {
+    padding-top: 0;
+    color: var(--post-info-color);
+}
