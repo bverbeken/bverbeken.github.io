@@ -1,28 +1,28 @@
 baseURL: 'https://bverbeken.github.io'
 languageCode: 'en-us'
 title: '"Just"'
-theme: "ananke"
+theme: "anubis"
+enableRobotsTXT: true
 params:
-  author: "Ben Verbeken"
-  ananke_socials:
-    - name: github
+  author: Ben Verbeken
+  email: bverbeken@gmail.com
+  style: dark-without-switcher
+  dateFormat: 2 January 2006
+  readMore: false
+  disableSummary: false
+  social:
+    - id: github
       url: https://github.com/bverbeken
-    - name: strava
+    - id: strava
       url: https://www.strava.com/athletes/63708615
-      label: strava
-      color: '#FC5201'
-    - name: goodreads
+    - id: goodreads
       url: https://www.goodreads.com/user/show/6076790-ben
-      label: goodreads
-      color: '#B9AC9A'
-  background_color_class: "bg-dark-gray"
-  recent_posts_number: 5
 
 menu:
   main:
-    - identifier: blog
-      name: Blog
-      title: Blog
+    - identifier: archive
+      name: Archive
+      title: Archive
       url: /posts/
       weight: 1
     - identifier: about

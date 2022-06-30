@@ -2,7 +2,11 @@
 title: "Hi, I'm \"just\" Ben 👋"
 featured_image: '/images/pale-blue-dot-revisited-2020.jpg'
 ---
-Everyone wears multiple hats. Here are mine: 
+
+# Hi, I'm \"just\" Ben 👋
+
+Everyone wears multiple hats. Here are mine. 
+
 
 ## dev & overall nerd
 I write code for a living. I play tabletop RPG's and occasionally participate in MTG drafts. I'm an introvert, who has issues with starting small talk.    
