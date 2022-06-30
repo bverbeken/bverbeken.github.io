@@ -1,0 +1,41 @@
+/* https://coolors.co/2d2d2a-4c4c47-848fa5-c14953-e5dcc5 */
+:root {
+    --light-1: #E5DCC5;
+    --dark-1: #2D2D2A;
+    --dark-1-darker: #252522;
+    --dark-2: #4C4C47;
+    --highlight-1: #C14953;
+    --highlight-1-lighter: #ec5b69;
+    --highlight-2: #848FA5;
+    --highlight-2-lighter: #9ba9c2;
+
+    --font-color: var(--light-1);
+    --bg-color: var(--dark-1);
+
+    --link-color: var(--highlight-1);
+    --link-state-color: var(--highlight-1-lighter);
+    --link-state-border-color: var(--highlight-1-lighter);
+
+    --thead-bg-color: var(--dark-2);
+    --table-border-color: lightgrey;
+
+    --nav-bg-color: var(--dark-1-darker);
+    --nav-link-color: var(--light-1);
+
+    --pre-color: #f8f8f2;
+    --pre-bg-color: var(--dark-1-darker);
+
+    --bq-color: #ccc;
+    --hr-color: var(--dark-1-darker);
+
+    --pagination-bg-color: #373737;
+    --pagination-link-color: #b6b6b6;
+
+    --post-info-color: grey;
+
+    --switcher-color: #333;
+    --switcher-bg-color: #fff;
+
+    --svg-color: #ccc;
+    --svg-state-color: #ff5858;
+}

@@ -1,5 +1,5 @@
 ---
-draft: true
+hidden: true
 ---
 
 * Why this blog
