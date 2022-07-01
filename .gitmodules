@@ -3,4 +3,4 @@
 	url = https://github.com/bverbeken/gohugo-theme-ananke.git
 [submodule "themes/anubis"]
 	path = themes/anubis
-	url = https://github.com/bverbeken/hugo-theme-anubis.git
+	url = git@github.com:bverbeken/hugo-theme-anubis.git
