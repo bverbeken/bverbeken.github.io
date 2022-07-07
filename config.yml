@@ -3,6 +3,34 @@ languageCode: 'en-us'
 title: '"Just"'
 theme: "anubis"
 enableRobotsTXT: true
+
+languages:
+  en:
+    languageName: English
+    weight: 1
+    contentDir: content/en
+    menu:
+      main:
+        - name: Archive
+          url: /posts/
+          weight: 1
+        - name: About
+          url: /about/
+          weight: 2
+
+#  nl:
+#    languageName: Nederlands
+#    weight: 2
+#   contentDir: content/nl
+#    menu:
+#      main:
+#        - name: Archief
+#          url: /posts/
+#          weight: 1
+#        - name: Over
+#          url: /about/
+#          weight: 2
+
 params:
   author: Ben Verbeken
   email: bverbeken@gmail.com
