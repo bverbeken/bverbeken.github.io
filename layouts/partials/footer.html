@@ -1,9 +1,4 @@
 <footer class="common-footer">
-    {{ $languagesCount := $.Site.Home.AllTranslations }}
-    {{ if gt $languagesCount 1 }}
-        {{ partial "language-switcher.html" . }}
-    {{ end }}
-
     <div class="common-footer-bottom">
         {{ if .Site.Menus.footer }}
             {{ $currentPage := . }}
