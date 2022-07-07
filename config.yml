@@ -18,18 +18,18 @@ languages:
           url: /about/
           weight: 2
 
-#  nl:
-#    languageName: Nederlands
-#    weight: 2
-#   contentDir: content/nl
-#    menu:
-#      main:
-#        - name: Archief
-#          url: /posts/
-#          weight: 1
-#        - name: Over
-#          url: /about/
-#          weight: 2
+  nl:
+    languageName: Nederlands
+    weight: 2
+    contentDir: content/nl
+    menu:
+      main:
+        - name: Archief
+          url: /posts/
+          weight: 1
+        - name: Over
+          url: /about/
+          weight: 2
 
 params:
   author: Ben Verbeken
