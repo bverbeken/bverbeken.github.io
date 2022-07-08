@@ -5,7 +5,7 @@ featured_image: '/images/pale-blue-dot-revisited-2020.jpg'
 
 # Hi, I'm \"just\" Ben 👋
 
-Everyone wears multiple hats. Here are mine. 
+Everyone wears multiple hats. These are mine. 
 
 
 ## dev & overall nerd
