@@ -5,37 +5,34 @@ featured_image: '/images/pale-blue-dot-revisited-2020.jpg'
 
 # Hey, Ik ben \"gewoon\" Ben 👋
 
-Iedereen draagt verschillende petjes. Hier zijn de mijne. 
+Iedereen draagt verschillende petjes. Dit hier zijn de mijne. 
 
 ## dev & nerd
-I write code for a living. I play tabletop RPG's and occasionally participate in MTG drafts. I'm an introvert, who has issues with starting small talk.    
-
-What can I say? 🤷‍️   
+Ik schrijf code (voor dreuzels: ik ben computerprogrammeur). Ik speel pen-en-papier rollenspelen en doe soms mee aan een Magic: The Gathering draft. Ik ben introvert, smalltalk is niet altijd makkelijk.
 
 ## Parent / Family man
-I'm a father of three - of course beautiful - children, each with their own quirks, strengths and challenges. 
+Ik heb drie fantastische kinderen, elk met hun eigen sterktes en zwaktes en hoekjes af.  
 
-Being a parent is IMHO the hardest thing one can do, by far. It means a huge responsibility, tough split-second decisions that can bear far-reaching consequences, and constant surprises around the corner.    
-It's the most beautiful job in the world.     
+Ouder zijn is, volgens mij, veruit de moeilijkste job ter wereld. Het brengt een gigantische verantwoordelijkheid, moeilijke split-second beslissingen met mogelijk verreikende gevolgen, en voortdurend verrassingen achter de hoek met zich mee.       
+Het is de mooiste job ter wereld.      
 
-Kids, if you happen to read this one day: ik zie ulle graag. 
+Kinderen, mocht een van jullie dit ooit lezen: love you. 
 
 ## Runner
-A couple of years ago, I was seriously overweight. On a beautiful January 1, I decided I had to lose 30kg. 
-So I stopped eating carbs and took up running as a means of supporting my diet. 
+Tot een paar jaar geleden was ik redelijk, euhm, zwaar. Op een mooie eerste Januari besliste ik dat dat moest stoppen.  
+Dus stopte ik met koolhydraten eten, en begon met hardlopen om mijn dieet te ondersteunen.  
 
-And then the strangest thing happened: I actually started to like going for a run! 
+Bleek dat ik het hardlopen zelf eigenlijk wel fijn vond! 
     
-Next thing you know, I'm a middle-of-the-packer, running 3-5 times a week, and ran a [marathon](https://www.strava.com/activities/6127388564/overview).    
-
-I have long stopped my keto diet, and gave up alcohol as a side effect. I'm now watching how I fuel to be able to run harder/better/faster, instead of the other way around. 
+Ik loop nu 3 tot 5 keer per week, nooit echt snel maar altijd met een ietwat pittig doel voor ogen. Zo liep ik recent mijn eerste [marathon](https://www.strava.com/activities/6127388564/overview).       
+Het keto dieet heb ik lang opgegeven. Ik let nu op mijn eten in functie van het hardlopen, in plaats van het omgekeerde.  
 
 ## Singer
-Been singing all of my life, both in choirs and solo. 
+Ik zing al mijn hele leven, zowel in koren als solo.  
 
-Since a few years I'm singing as a (counter)tenor in an a capella/barberhop band called [Captain Sugar & The Daddies](https://www.facebook.com/cptsugar). 
+Sinds een paar jaar zing ik als (contra-) tenor in een a capella / barbershop band, [Captain Sugar & The Daddies](https://www.facebook.com/cptsugar). 
 
-## Reader
-I make a point of reading at least 10 minutes daily, usually before going to bed. 
+## Lezer
+Ik maak er een punt van elke dag minstens 10 minuten te lezen, meestal voor het slapengaan.  
 
-I keep a list on [GoodReads](https://www.goodreads.com/user/show/6076790-ben). 
+Ik hou een lijst bij op [GoodReads](https://www.goodreads.com/user/show/6076790-ben). 

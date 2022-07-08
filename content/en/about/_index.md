@@ -22,17 +22,17 @@ It's the most beautiful job in the world.
 Kids, if you happen to read this one day: ik zie ulle graag. 
 
 ## Runner
-A couple of years ago, I was seriously overweight. On a beautiful January 1, I decided I had to lose 30kg. 
-So I stopped eating carbs and took up running as a means of supporting my diet. 
+A couple of years ago, I was pretty overweight. On a beautiful January 1, I decided that had to stop. 
+So I cut eating carbs out of my diet and took up running to burn a bit faster. 
 
 And then the strangest thing happened: I actually started to like going for a run! 
     
-Next thing you know, I'm a middle-of-the-packer, running 3-5 times a week, and ran a [marathon](https://www.strava.com/activities/6127388564/overview).    
+Next thing you know, I'm a middle-of-the-packer, running 3-5 times a week, and ran a - slow but full - [marathon](https://www.strava.com/activities/6127388564/overview).    
 
-I have long stopped my keto diet, and gave up alcohol as a side effect. I'm now watching how I fuel to be able to run harder/better/faster, instead of the other way around. 
+I'm now watching my diet to be able to run harder/better/faster, instead of the other way around. 
 
 ## Singer
-Been singing all of my life, both in choirs and solo. 
+I've been singing all of my life, both in choirs and solo. 
 
 Since a few years I'm singing as a (counter)tenor in an a capella/barberhop band called [Captain Sugar & The Daddies](https://www.facebook.com/cptsugar). 
 
