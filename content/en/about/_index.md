@@ -9,7 +9,7 @@ Everyone wears multiple hats. These are mine.
 
 
 ## dev & overall nerd
-I write code for a living. I play tabletop RPG's and occasionally participate in MTG drafts. I'm an introvert, who has issues with starting small talk.    
+I write code for a living (for muggles: I'm a computer programmer). I play tabletop RPG's and occasionally participate in MTG drafts. I'm an introvert, small talk doesn't come easy.    
 
 What can I say? 🤷‍️   
 
