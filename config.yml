@@ -9,6 +9,12 @@ languages:
     languageName: en
     weight: 1
     contentDir: content/en
+    title: '"Just"'
+    params:
+      description: Because nothing is ever "just" anything.
+      copyright: No ©, written with ♥ and ☕️ in 🇧🇪
+      and: and
+      areAwesome: are awesome
     menu:
       main:
         - name: Archive
@@ -22,6 +28,12 @@ languages:
     languageName: nl
     weight: 2
     contentDir: content/nl
+    title: '"Gewoon"'
+    params:
+      description: Omdat niks ooit "gewoon" is.
+      copyright: Geen ©, geschreven met ♥ and ☕️ in 🇧🇪
+      and: en
+      areAwesome: zijn geweldig
     menu:
       main:
         - name: Archief
