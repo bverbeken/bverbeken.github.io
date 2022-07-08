@@ -6,3 +6,10 @@ header nav:not(:empty){
     padding-top: 0;
     color: var(--post-info-color);
 }
+
+a.language-link {
+    color: var(--link-color);
+    text-decoration: underline;
+}
+
+

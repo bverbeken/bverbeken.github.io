@@ -6,7 +6,7 @@ enableRobotsTXT: true
 
 languages:
   en:
-    languageName: English
+    languageName: en
     weight: 1
     contentDir: content/en
     menu:
@@ -19,7 +19,7 @@ languages:
           weight: 2
 
   nl:
-    languageName: Nederlands
+    languageName: nl
     weight: 2
     contentDir: content/nl
     menu:
