@@ -1,6 +1,6 @@
 <h1 class="site-title">
     <a href="{{ .Site.BaseURL | relLangURL }}">
-        "Just"
+        {{ .Site.Title }}
     </a><br/>
-    <small>Because nothing is ever "just" anything.</small>
+    <small>{{ .Site.Params.Description }}</small>
 </h1>

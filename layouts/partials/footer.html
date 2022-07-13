@@ -1,9 +1,4 @@
 <footer class="common-footer">
-    {{ $languagesCount := $.Site.Home.AllTranslations }}
-    {{ if gt $languagesCount 1 }}
-        {{ partial "language-switcher.html" . }}
-    {{ end }}
-
     <div class="common-footer-bottom">
         {{ if .Site.Menus.footer }}
             {{ $currentPage := . }}
@@ -15,10 +10,11 @@
         {{ end }}
         <div class="copyright">
             <p>
-                No ©, &nbsp;✍️ with ♥ and ☕️ in 🇧🇪, &nbsp; no 🐑 were harmed. <br/>
-                <a target="_blank" rel="noopener noreferrer" href="https://gohugo.io/">Hugo</a> and
+                {{ .Site.Params.Copyright }}<br/>
+                <a target="_blank" rel="noopener noreferrer" href="https://gohugo.io/">Hugo</a>,
                 <a target="_blank" rel="noopener noreferrer" href="https://github.com/mitrichius/hugo-theme-anubis">Anubis</a>
-                are awesome.
+                {{ .Site.Params.And }} 🐑
+                {{ .Site.Params.AreAwesome }}!
             </p>
         </div>
 
