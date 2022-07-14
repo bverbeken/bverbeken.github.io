@@ -1,4 +1,101 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>"Just"</title><link>https://bverbeken.github.io/</link><description>"Just"</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 02 Jul 2022 00:22:00 +0200</lastBuildDate><atom:link href="https://bverbeken.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Trip to Another One Bites The Dust</title><link>https://bverbeken.github.io/posts/2022/07/another-one-bites-the-dust/</link><pubDate>Sat, 02 Jul 2022 00:22:00 +0200</pubDate><guid>https://bverbeken.github.io/posts/2022/07/another-one-bites-the-dust/</guid><description>&lt;p>Woke up early this morning. Not that that&amp;rsquo;s particularly unusual, but today was with a good reason: I&amp;rsquo;d promised my son to take him for a bike ride.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>"Just"</title><link>https://bverbeken.github.io/</link><description>"Just"</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 14 Jul 2022 20:00:00 +0200</lastBuildDate><atom:link href="https://bverbeken.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Book review: Deep Work</title><link>https://bverbeken.github.io/posts/2022/07/deep-work-book/</link><pubDate>Thu, 14 Jul 2022 20:00:00 +0200</pubDate><guid>https://bverbeken.github.io/posts/2022/07/deep-work-book/</guid><description>&lt;p>A couple of days ago, I finished reading Deep Work by Cal Newport.&lt;/p>
+&lt;p>All in all, it&amp;rsquo;s a very typical self-improvement book: find a silver bullet (&lt;em>in casu&lt;/em>, the ability to focus), use the first half of the book to explain why your Unique Concept is the new silver bullet. Then fill the second half with practical tips and how-to&amp;rsquo;s. Pretty standard.&lt;/p>
+&lt;p>However, this one did hit a nerve with me: I&amp;rsquo;ve personally been struggling with keeping my focus for quite some time.&lt;/p>
+&lt;p>So here&amp;rsquo;s what I took from reading Deep Work.&lt;/p>
+&lt;h1 id="overview" >Overview
+&lt;span>
+&lt;a href="#overview">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h1>&lt;p>First, a quick summary.&lt;/p>
+&lt;h3 id="part-i-deep-work-what--why" >Part I: Deep Work, What &amp;amp; Why
+&lt;span>
+&lt;a href="#part-i-deep-work-what--why">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>Newport uses the first 75 pages to explain what he means by deep work, and why it matters. He defines deep work as follows:&lt;/p>
+&lt;blockquote>
+&lt;p>Professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit. These efforts create new value, improve your skill, and are hard to replicate.&lt;/p>
+&lt;/blockquote>
+&lt;p>This &lt;em>state of distraction-free concentration&lt;/em> is not something that comes for free, it&amp;rsquo;s a skill that can be trained.
+Newport then argues that this skill is getting more and more rare, and at the same time more and more valuable for knowledge workers in this day and age.&lt;/p>
+&lt;p>&lt;em>Shallow&lt;/em> work is, of course, the opposite:&lt;/p>
+&lt;blockquote>
+&lt;p>Noncognitively demanding, logistical-style tasks, often performed while distracted. These efforts tend to not create much new value in the world and are easy to replicate.&lt;/p>
+&lt;/blockquote>
+&lt;p>As a software developer, I am familiar with &lt;em>being in the zone&lt;/em>. Sometimes, not often, it happens that I am able to focus continuously for a couple of hours on a single, usually intelectually challenging, task. Unsurprisingly, that&amp;rsquo;s when stuff gets done.&lt;/p>
+&lt;p>Unfortunately, I&amp;rsquo;m even more so familiar with shallow work. For instance, I find it near-to-impossible to focus when at home. Just too many distractions everywhere, even when I&amp;rsquo;m alone. I also have the bad habit of opening up the same news sites in my browser, multiple times a day. Not because I want to know what&amp;rsquo;s going on, but because my fingers just happen to type in the combination. It&amp;rsquo;s completely automatic, a bad habit at best, an addiction at worst 😱&lt;/p>
+&lt;p>So when Cal Newport suggests that focus is a skill, a muscle you can train, then I&amp;rsquo;m all ears!&lt;/p>
+&lt;h3 id="part-ii-deep-work-how" >Part II: Deep Work, How
+&lt;span>
+&lt;a href="#part-ii-deep-work-how">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>In four chapters, Newport lists 4 &amp;ldquo;rules&amp;rdquo;, each of them with their own examples, practical tips and reasons:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>Work deeply&lt;/strong>: how do you turn deep work into a regular and significant part of your daily life. That is to say: into a habit.&lt;/li>
+&lt;li>&lt;strong>Embrace boredom&lt;/strong>: teach yourself that it&amp;rsquo;s ok to not be doing anything. That way, you won&amp;rsquo;t feel the need to fill empty gaps of time so much, which in turn will help you to focus when you need to.&lt;/li>
+&lt;li>&lt;strong>Quit social media&lt;/strong>: pretty obvious, this one. The main idea in this chapter is to &lt;em>choose your tools wisely&lt;/em>. Don&amp;rsquo;t just accept that if a tool provides any benefit, that that benefit is enough to justify your use of that tool. There are negatives to be considered as well, and those negatives tend to be massively underestimated when it comes to social media.&lt;/li>
+&lt;li>&lt;strong>Drain the shallows&lt;/strong>: Tips and tricks to minimize shallow work. For example: plan every minute of your day (including shallow work), make it visible by giving yourself a daily &lt;em>shallow work budget&lt;/em>, and put more work into fewer emails. I liked this chapter the most.&lt;/li>
+&lt;/ol>
+&lt;h1 id="my-take" >My take
+&lt;span>
+&lt;a href="#my-take">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h1>&lt;p>I&amp;rsquo;m not going to go over all the tips and tricks Newport lists in his book. Instead, I&amp;rsquo;m going to pick out some of the things that made most sense to me, and list a few changes I made. Let&amp;rsquo;s see in a few months whether these changes were actually improvements.&lt;/p>
+&lt;h3 id="daily-routine-tweaks" >Daily routine tweaks
+&lt;span>
+&lt;a href="#daily-routine-tweaks">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>I already had a task system, loosely based on &lt;a href="https://nl.wikipedia.org/wiki/Getting_Things_Done">GTD&lt;/a>, that works pretty well for me. I&amp;rsquo;m using &lt;a href="https://culturedcode.com/things/">Things 3&lt;/a> with a small number of recurring tasks set up, one of which is a &amp;ldquo;daily routine&amp;rdquo; checklist that I go through each morning at 10am. It contains things like the list of inboxes to clear, &amp;ldquo;look at the 2 upcoming days&amp;rdquo;, &amp;ldquo;check training calendar&amp;rdquo;, amongst other things.&lt;/p>
+&lt;p>Based on what I learned from Deep Work, I made two changes to that daily routine:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Start early &lt;br>
+Instead of going through the list at 10am when I&amp;rsquo;m at work already, I do this first thing in the morning, sometimes even before or during my morning coffee. I&amp;rsquo;m usually up before everyone else in the house, so that&amp;rsquo;s a perfect time for some quiet daily planning.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>make a schedule instead of a task list &lt;br>
+Instead of simply listing the tasks for today, I&amp;rsquo;m assigning a time (and implicitly, an estimated duration) to each of the tasks. And I make sure to include time for emails, providing support, and even relaxing. &lt;br>
+Now, I&amp;rsquo;m not a big fan of planning and estimating. But the point of this plan is not to follow it! Instead, it&amp;rsquo;s to make it mentally easy to choose the next thing to do. Rather than having to pick something from my list (and have the silent option to open facebook), I&amp;rsquo;ll already know what the next thing is, because I already made that decision earlier. Easy-peasy.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="pomodoro-timer" >Pomodoro timer
+&lt;span>
+&lt;a href="#pomodoro-timer">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>Not technically a tip from Deep Work, but it fits the idea well: I&amp;rsquo;ve installed the free and awesome &lt;a href="https://flowapp.info/">Flow&lt;/a> app on my Mac. It allows me to start a timer of 30 minutes and - this is important - automatically block certain apps, such as my instant messaging and email clients for the duration of that timer. The simple fact that I need to add another step (i.e. stop the timer) to open up those apps, makes me realize I&amp;rsquo;m going out of focus, and that is enough to reconsider.&lt;/p>
+&lt;h3 id="quit-social-media" >Quit social media
+&lt;span>
+&lt;a href="#quit-social-media">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>I&amp;rsquo;ve removed the facebook, Twitter and reddit apps from my phone. I&amp;rsquo;m not ready to close my accounts just yet, since I do think there&amp;rsquo;s value in them. For example, some important conversations only happen through Messenger, and I cannot afford to miss out on those, socially speaking. I am, however, able to decide when and where I want to check those messages, rather than have them pushed to me.&lt;/p>
+&lt;p>I have not removed the &lt;em>useful&lt;/em> social media apps, which are Strava and GoodReads. Both of them provide me with enough value (motivation!) for them to be on my phone. I had their notifications disabled anyway.&lt;/p>
+&lt;h3 id="iphone-focus-feature" >iphone focus feature
+&lt;span>
+&lt;a href="#iphone-focus-feature">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>I still need to take the time to learn about and configure the built-in focus feature on my phone. It&amp;rsquo;s on my TODO list 😅&lt;/p>
+&lt;h1 id="conclusion" >Conclusion
+&lt;span>
+&lt;a href="#conclusion">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h1>&lt;p>Deep Work was an interesting read. I took some advice and tweaked my system a bit. Only time will tell whether this will actually improve my ability to focus. If not, I guess I&amp;rsquo;ll rinse and repeat.&lt;/p></description></item><item><title>Trip to Another One Bites The Dust</title><link>https://bverbeken.github.io/posts/2022/07/another-one-bites-the-dust/</link><pubDate>Sat, 02 Jul 2022 00:22:00 +0200</pubDate><guid>https://bverbeken.github.io/posts/2022/07/another-one-bites-the-dust/</guid><description>&lt;p>Woke up early this morning. Not that that&amp;rsquo;s particularly unusual, but today was with a good reason: I&amp;rsquo;d promised my son to take him for a bike ride.
 You see, he&amp;rsquo;s quite an active little fella who needs his daily dose of physical activity. And I&amp;rsquo;m happy to fix him up :)&lt;/p>
 &lt;p>Now, I&amp;rsquo;ve always found that actually &lt;em>going somewhere&lt;/em> is much more interesting than &amp;ldquo;just&amp;rdquo; going for a ride.
 It feels a lot less like training that way, haha.&lt;/p>
