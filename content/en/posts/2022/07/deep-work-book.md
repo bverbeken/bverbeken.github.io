@@ -1,16 +1,15 @@
 ---
-title: 'Book: Deep Work'
-date: 2022-07-10T8:00:00+02:00
-draft: true
+title: 'Book review: Deep Work'
+date: 2022-07-14T20:00:00+02:00
 summary: Summary and Review of Deep Work by Cal Newport.
-tags: ['books']
+tags: ['books', 'gtd']
 ---
 
 A couple of days ago, I finished reading Deep Work by Cal Newport. 
 
 All in all, it's a very typical self-improvement book: find a silver bullet (_in casu_, the ability to focus), use the first half of the book to explain why your Unique Concept is the new silver bullet. Then fill the second half with practical tips and how-to's. Pretty standard. 
 
-However, this book did hit a nerve: I've personally been struggling with keeping my focus for quite some time. 
+However, this one did hit a nerve with me: I've personally been struggling with keeping my focus for quite some time. 
 
 So here's what I took from reading Deep Work. 
 
@@ -56,21 +55,20 @@ Based on what I learned from Deep Work, I made two changes to that daily routine
 1. Start early \
 Instead of going through the list at 10am when I'm at work already, I do this first thing in the morning, sometimes even before or during my morning coffee. I'm usually up before everyone else in the house, so that's a perfect time for some quiet daily planning. 
 
-2. make a schedule, don't just list \
-Instead of simply listing the tasks for today, I'm assigning a time (and implicitely, an estimated duration) to each of the tasks. And I make sure to include time for emails, providing support, and even relaxing. \
-Now, I'm not a big fan of planning and estimating. But the point of this plan is not to follow it! Instead, it's to make it mentally easy to choose the next thing to do. Rather than having to pick something from my list (and have the silent option to open facebook), I'll already know what the next thing is, because I already made that decision earlier. Easy peasy. 
+2. make a schedule instead of a task list \
+Instead of simply listing the tasks for today, I'm assigning a time (and implicitly, an estimated duration) to each of the tasks. And I make sure to include time for emails, providing support, and even relaxing. \
+Now, I'm not a big fan of planning and estimating. But the point of this plan is not to follow it! Instead, it's to make it mentally easy to choose the next thing to do. Rather than having to pick something from my list (and have the silent option to open facebook), I'll already know what the next thing is, because I already made that decision earlier. Easy-peasy. 
 
 ### Pomodoro timer
-Not technically a tip from Deep Work, but it fits the idea well: I've installed the free and awesome [Flow](https://flowapp.info/) app on my mac. It allows me to start a timer of 30 minutes and - this is important - automatically block certain apps, such as my instant messaging and email clients for the duration of that timer. The simple fact that I need to add another step (i.e. stop the timer) to open up those apps, makes me realize I'm going out of focus, and that is enough to reconsider. 
+Not technically a tip from Deep Work, but it fits the idea well: I've installed the free and awesome [Flow](https://flowapp.info/) app on my Mac. It allows me to start a timer of 30 minutes and - this is important - automatically block certain apps, such as my instant messaging and email clients for the duration of that timer. The simple fact that I need to add another step (i.e. stop the timer) to open up those apps, makes me realize I'm going out of focus, and that is enough to reconsider. 
 
 ### Quit social media
-I've removed the facebook, twitter and reddit apps from my phone. I'm not ready to close my accounts just yet, since I do think there's value in them. For example, some important conversations only happen through Messenger, and I cannot afford to miss out on those, socially speaking. I am, however, able to decide when and where I want to check those messages, rather than have them pushed to me.  
+I've removed the facebook, Twitter and reddit apps from my phone. I'm not ready to close my accounts just yet, since I do think there's value in them. For example, some important conversations only happen through Messenger, and I cannot afford to miss out on those, socially speaking. I am, however, able to decide when and where I want to check those messages, rather than have them pushed to me.  
 
 I have not removed the _useful_ social media apps, which are Strava and GoodReads. Both of them provide me with enough value (motivation!) for them to be on my phone. I had their notifications disabled anyway.  
 
 ### iphone focus feature
  I still need to take the time to learn about and configure the built-in focus feature on my phone. It's on my TODO list 😅
 
-
 # Conclusion
-Deep Work was an interesting read. I took some advice and tweaked my system a bit. Only time will tell whether this will actually improve my ability to focus. If not, I guess I'll rinse and repeat.   
+Deep Work was an interesting read. I took some advice and tweaked my system a bit. Only time will tell whether this will actually improve my ability to focus. If not, I guess I'll rinse and repeat.
