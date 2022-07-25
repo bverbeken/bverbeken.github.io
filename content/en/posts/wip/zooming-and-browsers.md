@@ -6,6 +6,26 @@ summary: TODO
 tags: ['devlife']
 ---
 
+TODO remove
+
+More reading about wheelevent & deltaY & deltaMode
+
+https://github.com/w3c/uievents/issues/181
+
+See https://github.com/svgdotjs/svg.panzoom.js/pull/68/files
+
+
+https://bugzilla.mozilla.org/show_bug.cgi?id=1392460#c34 !!!!
+https://bugzilla.mozilla.org/show_bug.cgi?id=1392460
+
+https://github.com/svgdotjs/svg.panzoom.js/pull/68/files
+
+https://groups.google.com/g/mozilla.dev.platform/c/fUXLgaSoeLI?pli=1
+https://bugzilla.mozilla.org/show_bug.cgi?id=1392460#c34
+
+https://github.com/w3c/uievents/issues/181
+
+
 ## Intro
 I spend most of my professional time doing code: writing, deleting, reviewing and _thinking_ code. I do this at seats.io, a small company that I co-founded and that does floor plans for online ticketing websites.    
 
