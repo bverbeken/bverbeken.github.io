@@ -2,7 +2,7 @@
 title: 'Panta Rhei'
 date: 2022-07-26T8:00:00+02:00
 draft: true
-summary: "Heraclitus was right. Πάντα ῥεῖ, everything flows, you can't step in the same river twice. That goes double if you're building a SaaS product..."
+summary: "Heraclitus was right. Πάντα ῥεῖ, everything flows, you can't step in the same river twice. When building a SaaS product, that goes double: how do you change and evolve, while at the same time not change too much for existing users?"
 tags: ['seats.io', 'dev', 'startup']
 ---
 
@@ -10,16 +10,20 @@ I spend most of my professional time writing, deleting, reviewing and thinking a
 
 Seats.io does interactive floor plans for online ticketing websites. We currently serve around 250 customers, mostly online ticketing websites. Our customers integrate our seating charts into their website: they write code, both on the front- and the backend, using public API we provide and document. (TODO link) 
 
-And typically, that's where the story ends: stuff works, and our customers expect stuff to keep working the way it does.  
+And typically, that's where the story ends: stuff works, and our customers expect stuff to keep working the way it does, at least for a while.  
 
-At least, that's where it ends _for them_. Our API, like any other API, changes over the time when we fix bugs and build features. But we do want to keep everything running smoothly and not break any previous integrations.  
+At least, that's where it ends _for them_. Most integrators, as I'll call them in this post, only review their integration when they do an overhaul of their software, or when they run into issues and discover. 
 
-So the question arises: how can you keep things the same, while changing them continuously at the same time? 
+Our API however, like any other API, changes over time at a much smaller granularity. We continuously fix bugs and build new features. Which means we need to make sure to keep everything running smoothly and not break any existing integrations.  
 
-In short, there are two solutions to this. Either you version your API, or you aim for backwards compatibility.
+So the question arises: how can you keep things the same, while changing them continuously at the same time? How do you make sure your customers at least have the impression they are stepping in the same river twice?  
 
-> Note that I'm specifically talking about SaaS products like seats.io here. Not libraries.    
-For instance, at seats.io we have a number of API wrapper libraries (for php, java, .NET, etc) that make it easy to use the seats.io REST API in an idiomatic way. Those libs are versioned using semver (TODO link), as you would expect (though we tried not to (TODO link) at first, but that's a story for another day).
+In short, there are two solutions to this. 
+1. version your API. Let users choose their version. You will have to support multiple versions. 
+2. Everyone runs against the same version. Keep everything backwards compatible. 
+
+> Note that, in the rest of this post, I'm specifically talking about SaaS products with a multi-tenant API, like seats.io. And so not about libraries!
+
 
 # Backwards compatibility is your only option...
 ... unless you can afford the luxury of spending months on a pre-project, mapping out the necessary steps and requirements to start the initiation and subsequent delivery stages, planning, directing and managing deliverables. In that case and by all means: use PRINCE2 (TODO link). &lt;/sarcasm&gt;
@@ -36,35 +40,51 @@ We only run one version in production at any given time, which has a number of a
 * We can deploy whenever we want. Up to multiple times per day.  
 * Users don't have to worry about upgrading. They get all the good stuff right away without doing anything!     
 
-Maintaining backwards compatibility is a double-edged sword though: it means it becomes your responsibility to not _break_ existing integrations. And breaking changes can come in many flavours.  
+Maintaining backwards compatibility means you shift the responsibility of not breaking stuff to yourself. 
 
-* a breaking change in the technical sense. This is the most obvious form of a breaking change, e.g. changing or removing an API endpoint on which customers are relying. 
-* a functionally breaking change, i.e. when you make other assumptions than your users, and you make a change with only the intended use case in mind. This is a gray area, of course.  
-* shocking users. Your change does not _technically_ break anything, but you change the behaviour in such a way that users are   
-* breaking internal/non-documented API. Sometimes integrators discover fields or methods they're not supposed to use, and use them anyway. If you then change those, you break their integration.   
-* Fixing a bug on which integrators depend. It happens. 
+Breaking changes can come in many flavours:
+* The most obvious form of a breaking change is a technical one. E.g. you change or remove an API endpoint on which integrators are relying. 
+* You make a change to a feature with only the intended use case in mind. Except, integrators are making different assumptions, and are using the changed feature for something else than what you intended. In their eyes, you are breaking their use case. 
+* Changing internal/non-documented API, on which you assume no-one is relying, but in fact they are. 
+* shocking users. Your change does not _technically_ break anything, but you change the behaviour in such a way that users are
+* Fixing a bug on which integrators depend. The line between a bug and a feature is not a line, it's a gradient.   
 
-In the following, I'll go over some strategies we use at seats.io, and that seem to be working.   
+In the following, I'll go over some strategies we use at seats.io handle - and most of the time prevent - these situations.    
 
-### Add or modify, don't remove
+# Making a change: what are the options?
+
+### If nobody is using a feature, change it at will 
+When we have an idea on how to tackle a certain  
+Some changes are 
+
 If you can change without breaking, do that. 
 Can't do that without testing!
 
-### Know your users. Know your product
+### Add, don't modify or remove
 
-### Don't lie & Don't be scared
-On top of that, you will make mistakes. You will take product decisions that eventually will turn out to be based on wrong assumptions. You will introduce vocabulary that no-one understands or worse: that means something else to the rest of the world. You will
+### Warn, don't throw 
 
-You will make mistakes. Explain to users that sometimes things don't work as expected, because they made sense in the past but not in the present anymore. 
-
-### Break things!
-You will also break things, eg when people discover & use internal API. That's great 👍!  
+### Break it
 
 ### Feature Flags FTW
-Shield what cannot be fixed. 
+Shield what cannot be fixed.
 
-#@# Sometimes you just have to break backwards compatibilty
-Just once, years ago. And it took years too. 
+### Sometimes you just have to break backwards compatibilty
+Just once, years ago, we did deliberately break backwards compatibility. And it took us years to move everyone.
+ 
+
+# Conditions
+
+### BC should be a team reflex
+
+### Know your users & know your product
+
+### Be prepared for mistakes.
+When you grow a product iteratively, you are bound to make mistakes. You will take product decisions that eventually will turn out to be based on wrong assumptions. You will introduce vocabulary that no-one understands. Or worse: vocabulary that has a different meaning altogether for your customers. 
+
+If when that happens, explain to users that sometimes things don't work as expected, because they made sense in the past but not in the present anymore. 
+
+
 
 # A final note
 
