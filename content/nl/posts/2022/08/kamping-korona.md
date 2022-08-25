@@ -10,7 +10,7 @@ Ik zit naast een kampvuurtje - een kleintje: we houden het veilig met de droogte
 
 Een hoekje van die wei hebben we vandaag afgesloten en omgedoopt tot Kamping Korona. We, dat zijn mijn zoon Willem en ik. Picknicktafel erbij gesleurd, shelter opgezet voor schaduw, 2 tentjes gevuld met veldbedden en slaapzakken en kussens en pillampen, gamellen, keuken- en ander gerei, zakmessen uiteraard, alles erop en eraan.   
 
-Eerder op de avond hebben we _arroz con chorizo y pulpo_ gemaakt, op houtvuur, en de regels nog eens overlopen: enkel naar binnen voor het halen van voedingsmiddelen en voor de grote wc, al de rest gebeurt buiten. 
+Eerder op de avond hebben we _arroz con chorizo y pulpo_ gemaakt, op houtvuur, en de regels nog eens overlopen: enkel naar binnen voor het halen van voedingsmiddelen en voor de grote wc, al de rest gebeurt buiten. Alles in functie van een zo echt mogelijke kamp-beleving. 
 
 Gesjellug, zou je denken, en dat is het ook. De aanleiding voor dit uitje is dat minder. Deze laatste week van het groot verlof zouden de kinderen traditiegetrouw een week met oma naar een vakantiepark gaan, een van de hoogtepunten van het jaar.  
 
@@ -20,7 +20,7 @@ Op zo'n momenten zie ik het als mijn job - nee, mijn missie - om bots een altern
 
 Op het programma voor de komende twee dagen staan, naast koken, _jexen_, afwassen en andere karweien, onder meer het snijden van een dambord, muziekinstrumenten bouwen, en een uitstap naar de broodautomaat. Maar de eerste job morgenvroeg is toch een wachtwoord verzinnen, kwestie van de boel toch wat veilig te houden.    
 
-Ik kruip in mijn tent. Hopelijk houden de muggen me wakker vannacht, fingers crossed.   
+Ik kruip in mijn tent. Hopelijk houden de muggen me wakker vannacht - de kamp-beleving, weet u wel. Fingers crossed.   
 
  
 
