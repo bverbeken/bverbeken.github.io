@@ -22,5 +22,8 @@ So how did I get triggered? They brought in the ex-wife. She's actually the main
 > Perhaps it's selfishness, that's not malicious, but it can only be called selfishness. 
 > To think that one's passion comes before everyone else ... it's selfishness. 
 
+Now that resonates with me: as parent, life is a giant puzzle. 
 
-XXX Working here 
+Furthermore, I've always wondered how actual sports people . Then again, if you are able to look at it as your job, perhaps it's not that different from the puzzle if you replace training with going to work.  
+
+
