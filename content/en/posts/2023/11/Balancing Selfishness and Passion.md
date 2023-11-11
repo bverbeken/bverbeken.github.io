@@ -6,6 +6,10 @@ tags:
   - running
   - parenting
 ---
+
+
+![drawing of toys and running shoes](../balancing-selfishness-and-passion/balance.png)
+
 Last night, I was watching an episode of [Losers](<https://en.wikipedia.org/wiki/Losers_(TV_series)>) on Netflix, and it struck a chord with me.
 
 Losers is a series of single-story documentaries about people who "failed" in sports, sometimes in pretty spectacular ways. This particular episode was called _Lost in the Desert_. It was the story of [Mauro Prosperi](https://en.wikipedia.org/wiki/Mauro_Prosperi), a former Olympic athlete who met a sandstorm and (spoiler alert) nearly died in the desert of Morocco, during the [Marathon des Sables](https://en.wikipedia.org/wiki/Marathon_des_Sables)(1994). 
