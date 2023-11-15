@@ -25,17 +25,18 @@ params:
 contentDir: content
 menu:
   main:
-    - identifier: archive
-      name: Archive
-      title: Archive
-      url: /posts/
+    - name: English
       weight: 1
-    - identifier: about
-      name: About
-      title: About
-      url: /about/
+      url: /tags/en/
+    - name: Dutch
       weight: 2
-
+      url: /tags/nl/
+    - name: Archive
+      weight: 3
+      url: /posts/
+    - name: About
+      weight: 4
+      url: /about/
 
 sitemap:
   changefreq: "monthly"
