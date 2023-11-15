@@ -30,10 +30,10 @@ menu:
   main:
     - name: English
       weight: 1
-      url: /tags/en/
+      url: /lang/en/
     - name: Dutch
       weight: 2
-      url: /tags/nl/
+      url: /lang/nl/
     - name: Archive
       weight: 3
       url: /posts/
