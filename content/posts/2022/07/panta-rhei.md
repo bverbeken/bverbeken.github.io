@@ -2,6 +2,7 @@
 title: 'Panta Rhei'
 date: 2022-07-29T8:00:00+02:00
 summary: "Heraclitus said Πάντα ῥεῖ: everything flows, you can't step in the same river twice. That's true when you're building a SaaS product as well: how can you evolve your product, while at the same time keeping it the same for existing users?"
+lang: en
 tags: ['seats.io', 'dev', 'startup', 'versioning', 'API']
 ---
 

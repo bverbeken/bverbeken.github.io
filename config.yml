@@ -22,6 +22,9 @@ params:
     - id: goodreads
       url: https://www.goodreads.com/user/show/6076790-ben
 
+taxonomies:
+    language: lang
+
 contentDir: content
 menu:
   main:

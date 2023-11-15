@@ -2,6 +2,7 @@
 title: 'Book review: Deep Work'
 date: 2022-07-14T20:00:00+02:00
 summary: Summary and Review of Deep Work by Cal Newport.
+lang: en
 tags: ['books', 'gtd']
 ---
 

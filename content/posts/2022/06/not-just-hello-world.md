@@ -2,6 +2,7 @@
 title: 'Not "Just" Hello World'
 date: 2022-06-25T8:00:00+02:00
 summary: On why I'm starting a blog, and an answer to some frequently asked questions, none of which I have actually been asked, but there you go.   
+lang: 'en'
 ---
 
 Hi there. 
