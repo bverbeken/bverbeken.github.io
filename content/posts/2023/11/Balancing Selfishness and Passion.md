@@ -2,6 +2,7 @@
 title: Balancing Selfishness and Passion
 date: 2023-11-10T20:00:00+02:00
 summary: Exploring the delicate balance between personal passions and family life, inspired by a poignant episode of Netflix's 'Losers'.
+lang: en
 tags:
   - running
   - parenting

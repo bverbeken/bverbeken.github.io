@@ -1,7 +1,8 @@
 ---
 title: '"Just" run - part 1'
 date: 2022-07-01T0:05:00+02:00
-summary: "I love to run, but that was not always the case." 
+summary: "I love to run, but that was not always the case."
+lang: en
 tags: ['running']
 ---
 

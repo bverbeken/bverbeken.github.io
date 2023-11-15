@@ -4,45 +4,6 @@ title: '"Just"'
 theme: "anubis"
 enableRobotsTXT: true
 
-languages:
-  en:
-    languageName: en
-    weight: 1
-    contentDir: content/en
-    title: '"Just"'
-    params:
-      description: Because nothing is ever "just" anything.
-      copyright: No ©, written with ♥ and ☕️ in 🇧🇪
-      and: and
-      areAwesome: are awesome
-    menu:
-      main:
-        - name: Archive
-          url: /posts/
-          weight: 1
-        - name: About
-          url: /about/
-          weight: 2
-
-  nl:
-    languageName: nl
-    weight: 2
-    contentDir: content/nl
-    title: '"Gewoon"'
-    params:
-      description: Omdat niks ooit "gewoon" is.
-      copyright: Geen ©, geschreven met ♥ and ☕️ in 🇧🇪
-      and: en
-      areAwesome: zijn geweldig
-    menu:
-      main:
-        - name: Archief
-          url: /posts/
-          weight: 1
-        - name: Over
-          url: /about/
-          weight: 2
-
 params:
   author: Ben Verbeken
   email: bverbeken@gmail.com
@@ -61,19 +22,24 @@ params:
     - id: goodreads
       url: https://www.goodreads.com/user/show/6076790-ben
 
+taxonomies:
+    language: lang
+
+contentDir: content
 menu:
   main:
-    - identifier: archive
-      name: Archive
-      title: Archive
-      url: /posts/
+    - name: English
       weight: 1
-    - identifier: about
-      name: About
-      title: About
-      url: /about/
+      url: /lang/en/
+    - name: Dutch
       weight: 2
-
+      url: /lang/nl/
+    - name: Archive
+      weight: 3
+      url: /posts/
+    - name: About
+      weight: 4
+      url: /about/
 
 sitemap:
   changefreq: "monthly"

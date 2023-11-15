@@ -2,6 +2,7 @@
 title: 'Trip to Another One Bites The Dust'
 date: 2022-07-02T0:22:00+02:00
 summary: "I wanted to see for myself what an ultra runner looks like. Some impressions."
+lang: en
 tags: ['running', 'trips', 'parenting']
 ---
 

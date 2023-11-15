@@ -2,6 +2,7 @@
 title: 'Kamping Korona'
 date: 2022-08-23T23:00:00+02:00
 draft: false
+lang: 'nl'
 tags: ['covid', 'ouderschap']
 ---
 
