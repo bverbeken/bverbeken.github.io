@@ -1,13 +1,14 @@
 ---
-title: '"Just" run - part 1'
-date: 2022-07-01T0:05:00+02:00
-summary: "I love to run, but that was not always the case."
+title: 'The Starting Line: My Running Awakening'
+date: 2022-07-01
+summary: "Part 1 of my running adventures: how a family photo and a couple of broken chairs sparked my transformative journey from a sedentary life filled with culinary delights to the unexpected love of running."
 lang: en
 tags: ['running']
 ---
 
 I love to run, I do. But that's more of a recent development…
 
+## The wake-up call
 A couple of years ago, I was the guy who loved the good things in life as they say: cooking, eating, sleeping in, long wine-induced discussions, the more the better. 
 Sure, I was overweight and had trouble sleeping, but that was the price to pay for living The Good Life. 
 
@@ -15,7 +16,7 @@ Then, two things happened.
 
 One was the traditional family picture on the 1st of January. I looked at myself and instantly knew this couldn't go on like this. Nothing new there, I had been there before. Except, this time my siblings actually told me as well, and that hit hard.
 
-The second was when a chair collapsed under my weight a few weeks later. And then another chair a few days later. The furniture was literally telling me I was too heavy. That hit hard as well.   
+The second was when a chair collapsed under my weight a few weeks later. And then another chair a few days later. The furniture was literally telling me I was too heavy. That hit hard as well, both figuratively and quite literally.   
 
 So I started a keto diet. Its rules are very simple: no carbs, only protein and fat. 
 That means things like bread, pasta and sugary drinks, but also most fruits, were off limits. And that I could eat meat, eggs, cheese, a good selection of vegetables, and even an occasional glass of dry white wine.
@@ -23,7 +24,7 @@ Worked pretty well for me, being the bonvivant that I was.
 
 To support this diet, I figured that some exercise would do no harm. So I went and dug up my old running shoes to do regular sweat sessions around the block. 
 
-# My first race
+## My first race
 A year passes, it's Christmas. I'm down 20 kg (yay!), slowly working my way to a healthy BMI. And I'm running 3 times a week and feeling pretty good about it. 
 
 Now, I've always needed a goal. The things I do need to lead somewhere, or else they're not worth doing. I'm afraid that's just how I'm wired. 
@@ -38,7 +39,7 @@ No, I was running _differently_: for every two steps I took, most other runners 
 
 I didn't think much of it at that time. That would come much later.  
 
-# My first injury
+## My first injury
 It started with pain on the inside of my left knee, the day after a run. It would go away when I ran again, only to come back more fiercly the day after.
 I had been running pretty consistently for the past two years now, so this had to come from somewhere.
 
@@ -51,4 +52,6 @@ Solid new shoes, with extra-supersoft-cushioning, smart support, ideal for the h
 
 Except, it didn't fix my underlying problem. At least not in the long ... wait for it ... run. 
 
-_(stay tuned for part 2)_
+_(The story continues in [part 2]({{< ref "the-long-road-strides-shoes-and-songs" >}}))_
+
+
