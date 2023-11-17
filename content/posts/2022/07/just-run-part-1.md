@@ -42,7 +42,7 @@ I didn't think much of it at that time. That would come much later.
 It started with pain on the inside of my left knee, the day after a run. It would go away when I ran again, only to come back more fiercly the day after.
 I had been running pretty consistently for the past two years now, so this had to come from somewhere.
 
-First thing I tried was to rest. No running - full stop - for a week, then slowly build up again. That didn't help, from the very first run I was hurting again.   
+The first thing I tried was to rest. No running - full stop - for a week, then slowly build up again. That didn't help, from the very first run I was hurting again.   
 
 After googling some more, it hit me: shoes. I have no idea of the mileage on my old shoes, I probably "just" - mind the quotes - need a new pair.
 
