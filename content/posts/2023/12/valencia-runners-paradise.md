@@ -1,6 +1,6 @@
 ---
 title: "Valencia: Runners' Paradise"
-date: 2023-12-06
+date: 2023-12-07
 summary: Discovering the joys of running in Valencia's Turia Garden, a picturesque blend of nature and urban charm, diverse crowds, and runner-friendly features.
 lang: en
 tags: ['running']
