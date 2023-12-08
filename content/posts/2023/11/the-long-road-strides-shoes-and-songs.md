@@ -2,6 +2,7 @@
 title: 'The Long Road: Strides, Shoes, and Songs'
 date: 2023-11-17
 summary: Part 2 of my running adventures, on how wide feet revelations, the importance of strength training, and the enlightening power of a well-chosen soundtrack.
+lang: en
 tags: ['running']
 ---
 
